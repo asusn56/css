@@ -1,0 +1,51 @@
+.roboto-regular-italic {
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+}
+
+p {
+  color: rgb(43, 18, 18);
+  font-family: "Roboto", sans-serif;
+}
+
+h1 span {
+  color: blue;
+}
+
+p span {
+  color: green;
+  text-decoration: underline;
+}
+
+p a {
+  color: green;
+  text-decoration: underline;
+}
+
+.h2help{
+  font-style: italic;
+}
+
+p.content {
+  font-style: italic;
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0;
+  
+}
+nav ul li {
+  margin-right: 5px;    
+}
+
+nav ul li:last-child{
+  margin-right: 0;
+}
