@@ -32,9 +32,7 @@ p a {
   font-style: italic;
 }
 
-p.content {
-  font-style: italic;
-}
+
 
 nav ul {
   display: flex;
